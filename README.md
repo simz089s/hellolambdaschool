@@ -1,2 +1,1 @@
-# hellolambdaschool
-LambdaSchool web dev mini-bootcamp web assignment 3 Task Two
+I am learning how to use git at Lambda School's [online code bootcamp](https://lambdaschool.com/mini-bootcamp)
